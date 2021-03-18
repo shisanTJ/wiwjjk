@@ -1,0 +1,4 @@
+2021-03-04 11:05:04,437 INFO [root] [tool.py (get_token:17] - 正在提取token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjEifQ.eyJpc3MiOiJ6aGFuZ3NhbiIsImp0aSI6IjEiLCJpYXQiOjE2MTQ4MjcxMDMsImF1ZCI6IntcInVpZFwiOlwiMTAyOTIxMThcIixcImxvZ2lubmFtZVwiOlwiXCIsXCJuaWNrbmFtZVwiOlwiXFx1NzUxZlxcdTRlYTdcIixcImVtYWlsXCI6bnVsbCxcImdlbmRlclwiOm51bGwsXCJyZWdpb25cIjpudWxsLFwiY2l0eVwiOlwiMVwiLFwiaGVhZGltZ1wiOm51bGwsXCJpbnZpdGluZ2NvZGVcIjpudWxsLFwicmVnZGF0ZVwiOlwiMTU5NjE2NTM2NVwiLFwic3RhdHVzXCI6MSxcInBhc3NXb3JkXCI6XCI1M2E1NGUwYmUzYmFiNTNjZmI0OTJmZjNlMjc1YjZiM1wiLFwic2FsdFwiOlwieHJjTnBNXCIsXCJ1c2VybW9iaWxlXCI6XCIxNTczMTMyMTc0N1wifSIsInN1YiI6InN1YmplY3QifQ.27Uoh-rExYmhgPE9Ijy0Vw7WY_3edrO1dqGwqCfu64o
+2021-03-04 11:05:04,441 INFO [root] [tool.py (official_assert_common:25] - 正在断言msg:OK
+2021-03-04 11:05:04,443 INFO [root] [test03.py (test01_official_login:28] - 登录断言成功
+2021-03-04 11:08:48,543 INFO [root] [tool.py (official_assert_common:25] - 正在断言msg:
